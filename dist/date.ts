@@ -1,4 +1,5 @@
 import  PeculiarDate  from "../src/date.peculiar.js";
-console.log(PeculiarDate.getTime)
+import  FormartedDate  from "../src/formatdate.js";
 console.log(PeculiarDate)
+console.log(FormartedDate)
 export default PeculiarDate 

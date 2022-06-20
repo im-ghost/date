@@ -2,9 +2,9 @@
   "name": "peculiar-date",
   "version": "0.1.0",
   "description": "A date lib",
-  "main": "date.peculiar.ts",
+  "main": "./src/date.js",
   "scripts": {
-    "test": "npm run peculiar"
+    "test": "node ./src/date.js"
   },
   "keywords": [
     "date"
