@@ -1,0 +1,22 @@
+{
+  "name": "date",
+  "version": "0.0.0",
+  "description": "A date lib",
+  "main": "date.peculiar.ts",
+  "scripts": {
+    "test": "npm run peculiar"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "Peculiar-codes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peculiar-codes/date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Peculiar-codes/date/issues"
+  },
+  "homepage": "https://github.com/Peculiar-codes/date#readme"
+}
